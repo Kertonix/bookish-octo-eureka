@@ -16,7 +16,10 @@ namespace app
 
     public class PostInput
     {
-        public event EventHandler<MyEventArgs> @Event;
+        public delegate void @EventHandler(object source, MyEventArgs args);
+
+        // Deklaracja eventu który będzię używał powyższego delegata z argumentem
+        public event @EventHandler @Event;
         public int _Id;
         public int Id
         {
