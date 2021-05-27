@@ -1,0 +1,15 @@
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\bin\Debug\app.exe.config
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\bin\Debug\app.exe
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\bin\Debug\app.pdb
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\bin\Debug\EntityFramework.dll
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\bin\Debug\EntityFramework.xml
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\obj\Debug\app.csproj.AssemblyReference.cache
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\obj\Debug\app.Form1.resources
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\obj\Debug\app.csproj.CopyComplete
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\obj\Debug\app.exe
+C:\Users\pchmi\OneDrive\Pulpit\bookish-octo-eureka\app\app\obj\Debug\app.pdb
